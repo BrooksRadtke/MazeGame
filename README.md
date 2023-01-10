@@ -1,4 +1,4 @@
-# MazeGame
+# [MazeGame](https://brooksradtke.github.io/MazeGame/)
 A proof-of-concept project focusing player movement, trigger collision, and post-processing
 
 ### Overview
